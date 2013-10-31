@@ -1,0 +1,9 @@
+/* sass --watch archivo_entrada.scss:nombre_archivo_salida.css */
+/* line 2, ../../../primera-parte/primero.scss */
+body, html { heigth: 100%; }
+
+/* line 6, ../../../primera-parte/primero.scss */
+h1 { border-bottom: 2px solid #474747; color: #e3c3c3; margin: 0 0 5px; }
+
+/* line 12, ../../../primera-parte/primero.scss */
+.container { margin: 0 auto; max-width: 1200px; min-heigt: 100%; width: auto; }

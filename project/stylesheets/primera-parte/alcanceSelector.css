@@ -1,0 +1,11 @@
+/* estos comentarios se veran en el precompilado */
+/* line 6, ../../../primera-parte/alcanceSelector.scss */
+.recuadro { width: 200px; }
+/* line 8, ../../../primera-parte/alcanceSelector.scss */
+.recuadro .mensaje { border: 1px solid red; }
+/* line 10, ../../../primera-parte/alcanceSelector.scss */
+.recuadro .mensaje .titulo { color: #454545; }
+/* line 13, ../../../primera-parte/alcanceSelector.scss */
+.recuadro .mensaje .usuario { border: 2px solid black; }
+/* line 15, ../../../primera-parte/alcanceSelector.scss */
+.recuadro .mensaje .usuario .titulo { color: #CCC; }

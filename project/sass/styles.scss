@@ -1,0 +1,5 @@
+@import "compass/reset";
+@import "compass/typography/lists/horizontal-list";
+ul .horizontal{
+	@include horizontal-list;
+}
